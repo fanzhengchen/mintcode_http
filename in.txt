@@ -1,0 +1,6 @@
+{
+    "fileStatus":"1"
+    "srcOffset":"0"
+    "fileName"："ice.png"
+    "userName":"Ga7Dm"
+}

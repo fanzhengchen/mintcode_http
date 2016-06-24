@@ -14,4 +14,5 @@ curl.setopt(pycurl.HTTPHEADER, [
 ])
 curl.perform()
 curl.close()
+
 print curl.getinfo(pycurl.CONTENT_TYPE)
